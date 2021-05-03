@@ -5,4 +5,4 @@ ____________________________________
 
 <img src="https://res.cloudinary.com/dfgjujaok/image/upload/c_scale,h_387/v1620080733/welcome2_b3cmon.jpg"   />
 ____________________________________
-<img src="https://res.cloudinary.com/dfgjujaok/image/upload/v1620080734/4_hdhrqr.jpg"   />
+<img src="https://res.cloudinary.com/dfgjujaok/image/upload/c_scale,h_387/v1620080734/4_hdhrqr.jpg"   />
