@@ -3,6 +3,6 @@ The project was implemented by using the Client-Server model based on multi-thre
 ____________________________________
 ##Help Dora and Diego to find Boots!
 
-<img src="https://res.cloudinary.com/dfgjujaok/image/upload/c_scale,h_387/v1620080733/welcome2_b3cmon.jpg"   />
+<img src="https://res.cloudinary.com/dfgjujaok/image/upload/v1620081089/welcome2_ckbe20.jpg"   />
 ____________________________________
-<img src="https://res.cloudinary.com/dfgjujaok/image/upload/c_scale,h_387/v1620080734/4_hdhrqr.jpg"   />
+<img src="https://res.cloudinary.com/dfgjujaok/image/upload/v1620081089/4_zcyjmy.jpg"   />
