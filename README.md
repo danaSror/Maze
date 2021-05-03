@@ -4,5 +4,6 @@ ____________________________________
 ## Help Dora and Diego to find Boots!
 
 <img src="https://res.cloudinary.com/dfgjujaok/image/upload/v1620081089/welcome2_ckbe20.jpg" />
-____________________________________
+
+
 <img src="https://res.cloudinary.com/dfgjujaok/image/upload/v1620081089/4_zcyjmy.jpg" />
